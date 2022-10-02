@@ -1,4 +1,4 @@
-# Creating a Knowledge Graph out of plain text for semantic reasoning on text data
+# Creating a Knowledge Graph out of plain text data for semantic reasoning
 
 ### What is a knowledge graph?
 In knowledge representation and reasoning, knowledge graph is a knowledge base that uses a graph-structured data model or topology to integrate data. Knowledge graphs are often used to store interlinked descriptions of entities – objects, events, situations or abstract concepts – while also encoding the semantics underlying the used terminology.
