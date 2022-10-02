@@ -44,7 +44,7 @@ _You can follow the installation steps below to run the app._
 
 ### Install NeuralCoref from source
 
-You can also install NeuralCoref from sources. (You will need to install the dependencies first which includes Cython and SpaCy).
+You can install NeuralCoref from sources. (You need to already have Cython and SpaCy installed).
 
 Here is the process:
 
@@ -53,3 +53,8 @@ git clone https://github.com/huggingface/neuralcoref.git
 cd neuralcoref
 pip install -e .
 ```
+
+### Run the juppyter notebook and follow the instructions
+   ```sh
+   jupyter notebook
+   ```
