@@ -54,7 +54,7 @@ cd neuralcoref
 pip install -e .
 ```
 
-### Run the juppyter notebook and follow the instructions
+### Run the jupyter notebook and follow the instructions
    ```sh
    jupyter notebook
    ```
